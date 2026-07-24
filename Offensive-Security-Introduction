@@ -1,0 +1,16 @@
+# Offensive Security Introduction
+
+## What I learned:
+- Why it's important to be able to think like a hacker
+- How to use the [dirb] command to find hidden webpages
+
+## Commands I used:
+- dirb (url)
+
+## How I solved it:
+
+Example
+
+## Key Takeaways:
+
+The best way to provide a strong defense is by understanding the offense which was the purpose of this introductory exercise.
