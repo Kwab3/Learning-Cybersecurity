@@ -9,7 +9,8 @@
 
 ## How I solved it:
 
-Example
+I utilized the dirb command onto the fake bank website to find 2 hidden webpages: an image page and a bank transfer page.
+With that information I was able to visit the bank transfer page and use an admin portal to wire money to my account, the way a hacker would.
 
 ## Key Takeaways:
 
